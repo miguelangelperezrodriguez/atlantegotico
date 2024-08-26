@@ -59,8 +59,8 @@
         <UnitName Value="NumerologiaEstrella"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="8"/>
-        <TopLine Value="101"/>
-        <CursorPos X="16" Y="111"/>
+        <TopLine Value="95"/>
+        <CursorPos X="26" Y="110"/>
         <UsageCount Value="79"/>
         <Loaded Value="True"/>
       </Unit>
@@ -93,10 +93,6 @@
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="frmprincipal.pas"/>
-        <Caret Line="116" TopLine="101"/>
-      </Position>
       <Position>
         <Filename Value="frmprincipal.pas"/>
         <Caret Line="132" Column="9" TopLine="117"/>
@@ -212,6 +208,10 @@
       <Position>
         <Filename Value="frmprincipal.pas"/>
         <Caret Line="176" Column="56" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="numerologiaestrella.pas"/>
+        <Caret Line="111" Column="16" TopLine="101"/>
       </Position>
     </JumpHistory>
     <RunParams>

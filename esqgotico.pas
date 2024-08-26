@@ -20,6 +20,7 @@ uses
             var torre : torreGotica; latlante : tlarcanos);
   procedure EstrellaGoticadeTorre (torre : torreGotica;var estrella : estrellaGotica;
                                   latlante : tlarcanos);
+  procedure ObtenerGematria (var nros: tnrosgematria);
 
   var
     nrotalento,nroalma,nropersonalidad,nrodestino,nropotencial : integer;
@@ -82,6 +83,15 @@ implementation
              latlante:tlarcanos);
   begin
     EstrellaGoticaOculta (torre,estrella,latlante);
+  end;
+
+  procedure ObtenerGematria (var nros: tnrosgematria);
+  begin
+    nros[Verde]:=nrotalento;
+    nros[Rojo]:=nroalma;
+    nros[Azul]:=nropersonalidad;
+    nros[Amarillo]:=nrodestino;
+    nros[Negro]:=nropotencial;
   end;
 
 end.

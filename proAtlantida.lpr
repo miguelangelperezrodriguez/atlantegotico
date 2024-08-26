@@ -11,7 +11,7 @@ uses
   {$ENDIF}
   Interfaces, // this includes the LCL widgetset
   Forms, frmPrincipal, esqAtlante, esqgotico,
-  obtencionSenderosKabala, unit1
+  obtencionSenderosKabala
   { you can add units after this };
 
 {$R *.res}

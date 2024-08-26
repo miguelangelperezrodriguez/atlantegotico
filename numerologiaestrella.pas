@@ -107,7 +107,7 @@ implementation
       else
         valor:=0;
     end;
-    if c='Ñ' or c='ñ' then
+    if (c='Ñ') or (c='ñ') then
       valor:=5;
 
     ValorLetra:=valor;

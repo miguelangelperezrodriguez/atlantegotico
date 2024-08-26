@@ -23,7 +23,7 @@ const
      'Conjetura','Consumación','Versatilidad','Afinidad','Asesoramiento',
      'Premeditación','Resentimiento','Exámen','Contrición','Peregrinaje',
      'Rivalidad','Recapacitación','Revelación','Evolución','Soledad','Proscripción',
-     'Comunión','Vehemencia','Aprendizaje','Perplejidad','Amistad','
+     'Comunión','Vehemencia','Aprendizaje','Perplejidad','Amistad',
      'Especulación','El Azar','Cooperación','Avaricia','Purificación','El Amor y el Deseo',
      'La Ofrenda','Generosidad','El Dispensador','Desorientación','Renacimiento');
 

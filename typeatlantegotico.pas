@@ -22,8 +22,8 @@ type
 
   colorGotico = (Verde,Rojo,Azul,Amarillo,Negro);
   // Los arcanos conseguidos
-  tcjtokier   = array[1..3] of tarcanokier;
-  torreGotica = array [Verde..Negro] of tcjtokier;
+  tcjtokiertrip   = array[1..3] of tarcanokier;
+  torreGotica = array [Verde..Negro] of tcjtokiertrip;
   // Los arcanos ocultos conseguidos
   estrellaGotica = array[1..MaxOcultos] of tarcanokier;
 

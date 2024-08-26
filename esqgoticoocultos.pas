@@ -5,7 +5,7 @@ unit esqgoticoocultos;
 interface
 
 uses
-  Classes, SysUtils,esqAtlante,esqgotico;
+  Classes, SysUtils,esqAtlante,esqgotico,typeAtlanteGotico;
 
 var
   idxlista : integer;

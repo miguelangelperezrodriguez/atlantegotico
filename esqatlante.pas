@@ -39,8 +39,7 @@ var
   tarcanoskiernoalcanzables : tcjtoKier;
   tlarcanosalcanzables : array [tidxalcanzables] of tarcanokier;
 
-  torreGotica1 : torreGotica;
-  estrellaGotica1 : estrellaGotica;
+
 
   latlante : tlarcanos;
 
